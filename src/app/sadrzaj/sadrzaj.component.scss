@@ -1,0 +1,23 @@
+.pozadina{
+    //background-image: url('../../assets/image/slika\ 4.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.408), rgba(0, 0, 0, 0.762) ), url('../../assets/image/slika\ 4.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    font-size: 42px;
+}
+mat-icon{
+    color: rgb(248, 123, 51);
+    font-size: 42px;
+}
+h5{
+    color: rgb(248, 123, 51);
+}
+p{
+    text-align:start;
+}
+nav a{
+    color: black;
+}
